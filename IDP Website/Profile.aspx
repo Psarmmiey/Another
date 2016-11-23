@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Profile.aspx.cs" MasterPageFile="~/Site.Master" Inherits="IDP_Website.Profile" %>
+﻿<%@ Page Title ="Reconnect Form"  Language="C#" AutoEventWireup="true" CodeBehind="Profile.aspx.cs" MasterPageFile="~/Site.Master" Inherits="IDP_Website.Profile" %>
 
 <asp:Content ContentPlaceHolderID="MainContent" runat="server">
     <div style="padding-top:50px; padding-left:100px; padding-right:100px;">
