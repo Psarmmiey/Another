@@ -5,10 +5,10 @@
         <h2>Profile</h2>
         <div class="row">
             <div class="col-md-4">
-                <img src="idp/idp1.jpg"/>
+                <img src="idp/idp12.jpg"/>
             </div>
             <div class="col-md-8">
-                <h2>JEMILU SANNI</h2>
+                <h2>DANLADI HASSAN</h2>
                 <h3>Displacement Story</h3>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -33,15 +33,15 @@
                     <tbody>
                         <tr>
                             <td>NATIONALITY</td>
-                            <td>Nigerian</td>
+                            <td>NIGERIAN</td>
                         </tr>
                         <tr>
                             <td>PRESENT LOCATION/REFUGEE CAMP</td>
-                            <td>Abuja IDP Camp</td>
+                            <td>EDO IDP Camp</td>
                         </tr>
                         <tr>
                             <td>DISPLACED FROM</td>
-                            <td>Borno State</td>
+                            <td>ADAMAWA STATE</td>
                         </tr>
                         <tr>
                             <td>CAUSE OF DISPLACEMENT</td>
@@ -49,12 +49,12 @@
                         </tr>
                         <tr>
                             <td>RECENT CONTACT</td>
-                            <td>MR JEMILU</td>
+                            <td>MRS DANLADI</td>
                         </tr>
                        
                         <tr>
                             <td>HIGHEST LEVEL OF EDUCATION</td>
-                            <td>SSCE</td>
+                            <td>JSCE</td>
                         </tr>
                         <tr>
                             <td>LATEST JOB</td>
@@ -62,6 +62,7 @@
                         </tr>
                     </tbody>
                 </table>
+                <button class="btn btn-lg" href="reconnect/12.aspx">Recconect</button>
             </div>
             <!--<div class="col-md-6">
                  <h2>Short Description Video</h2>

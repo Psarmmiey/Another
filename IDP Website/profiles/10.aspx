@@ -5,10 +5,10 @@
         <h2>Profile</h2>
         <div class="row">
             <div class="col-md-4">
-                <img src="idp/idp1.jpg"/>
+                <img src="idp/idp10.jpg"/>
             </div>
             <div class="col-md-8">
-                <h2>JEMILU SANNI</h2>
+                <h2>SALIU KABIR</h2>
                 <h3>Displacement Story</h3>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -33,7 +33,7 @@
                     <tbody>
                         <tr>
                             <td>NATIONALITY</td>
-                            <td>Nigerian</td>
+                            <td>NIGERIAN/td>
                         </tr>
                         <tr>
                             <td>PRESENT LOCATION/REFUGEE CAMP</td>
@@ -49,7 +49,7 @@
                         </tr>
                         <tr>
                             <td>RECENT CONTACT</td>
-                            <td>MR JEMILU</td>
+                            <td>MR SALIU</td>
                         </tr>
                        
                         <tr>
