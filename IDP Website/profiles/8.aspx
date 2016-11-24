@@ -8,14 +8,8 @@
                 <img src="idp/idp1.jpg"/>
             </div>
             <div class="col-md-8">
-                <h2>JEMILU SANNI</h2>
-                <h3>Displacement Story</h3>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
-                Dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumDolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <h2>JUMAI & AMINA</h2>
+                
             </div>
         </div>
         <hr />
@@ -49,12 +43,12 @@
                         </tr>
                         <tr>
                             <td>RECENT CONTACT</td>
-                            <td>MR JEMILU</td>
+                            <td></td>
                         </tr>
                        
                         <tr>
                             <td>HIGHEST LEVEL OF EDUCATION</td>
-                            <td>SSCE</td>
+                            <td></td>
                         </tr>
                         <tr>
                             <td>LATEST JOB</td>
