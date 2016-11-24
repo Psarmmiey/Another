@@ -174,7 +174,7 @@
                 <div class="features" style="font-family:Calibri;">
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="1.aspx" >
+                            <a href="profiles/1.aspx" >
                             <img src="idp/idp1.jpg" /> </a>
                             <div class="carousel-caption">
                                 JEMILU SANNI
@@ -185,7 +185,7 @@
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/2.aspx" >
                             <img src="idp/idp2.jpg" /></a>
                             <div class="carousel-caption">
                                 HAKEEM AISHAT
@@ -196,7 +196,7 @@
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/3.aspx" >
                             <img src="idp/idp3.jpg" /> </a>
                             <div class="carousel-caption">
                                 HAKEEM ABDUL-JELIL & HAKEEM AISHAT
@@ -207,7 +207,7 @@
                 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/3.aspx" >
                             <img src="idp/idp4.jpg" /> </a>
                             <div class="carousel-caption">
                                 SALAM SANUSI
@@ -218,7 +218,7 @@
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/4.aspx" >
                             <img src="idp/idp6.jpg" /> </a>
                             <div class="carousel-caption">
                                 KABIR FAMILY
@@ -229,7 +229,7 @@
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/5.aspx" >
                             <img src="idp/idp7.jpg" /> </a>
                             <div class="carousel-caption">
                                 JOSHUA DAVIS
@@ -243,7 +243,7 @@
                 <div class="features" style="font-family:Calibri;">
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/6.aspx" >
                             <img src="idp/idp14.jpg" /> </a>
                             <div class="carousel-caption">
                                 LUKMAN YAKUB
@@ -254,54 +254,54 @@
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/7.aspx" >
                             <img src="idp/idp9.jpg" /> </a>
                             <div class="carousel-caption">
                                 
                             </div>
-                            <p>Cause 8</p>
+                            <p>Dislaced due to Insurgency</p>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="profiles/8.aspx" >
                             <img src="idp/idp01.jpg" /> </a>
                             <div class="carousel-caption">
                                 
                             </div>
-                            <p>Cause 9</p>
+                            <p>Displaced due to Insurgency</p>
                         </div>
                     </div><!--/.col-md-4-->
                 
                     <div class="col-md-2 col-sm-6">
                         
                         <div class="navbar feature-wrap" >
-                           <a href="Profile.aspx" > <img src="idp/idp11.jpg" /></a>
+                           <a href="profiles/10.aspx" > <img src="idp/idp11.jpg" /></a>
                             <div class="carousel-caption">
                                 
                             </div>
-                            <p>Cause 10</p>
+                            <p>displaced due to Insurgency</p>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                           <a href="Profile.aspx" > <img src="idp/idp12.jpg" /> </a>
+                           <a href="profiles/11.aspx" > <img src="idp/idp12.jpg" /> </a>
                             <div class="carousel-caption">
                                 
                             </div>
-                            <p>Cause 11</p>
+                            <p>Displaced due to Flood</p>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                           <a href="Profile.aspx" > <img src="idp/idp13.jpg" /> </a>
+                           <a href="profiles/12.aspx" > <img src="idp/idp13.jpg" /> </a>
                             <div class="carousel-caption">
                                 
                             </div>
-                            <p>Cause 12</p>
+                            <p>Displaced due to Insurgency</p>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
