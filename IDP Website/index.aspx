@@ -174,7 +174,7 @@
                 <div class="features" style="font-family:Calibri;">
                     <div class="col-md-2 col-sm-6">
                         <div class="navbar feature-wrap" >
-                            <a href="Profile.aspx" >
+                            <a href="1.aspx" >
                             <img src="idp/idp1.jpg" /> </a>
                             <div class="carousel-caption">
                                 JEMILU SANNI
