@@ -5,10 +5,10 @@
         <h2>Profile</h2>
         <div class="row">
             <div class="col-md-4">
-                <img />
+                <img src=""/>
             </div>
             <div class="col-md-8">
-                <h2>IDP's Name</h2>
+                <h2>JEMILU SANNI</h2>
                 <h3>Displacement Story</h3>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -33,35 +33,32 @@
                     <tbody>
                         <tr>
                             <td>NATIONALITY</td>
-                            <td></td>
+                            <td>Nigerian</td>
                         </tr>
                         <tr>
                             <td>PRESENT LOCATION/REFUGEE CAMP</td>
-                            <td></td>
+                            <td>Abuja IDP Camp</td>
                         </tr>
                         <tr>
                             <td>DISPLACED FROM</td>
-                            <td></td>
+                            <td>Borno State</td>
                         </tr>
                         <tr>
                             <td>CAUSE OF DISPLACEMENT</td>
-                            <td></td>
+                            <td>Boko Haram Insurgency</td>
                         </tr>
                         <tr>
                             <td>RECENT CONTACT</td>
                             <td></td>
                         </tr>
-                        <tr>
-                            <td>FORMER SCHOOL</td>
-                            <td></td>
-                        </tr>
+                       
                         <tr>
                             <td>HIGHEST LEVEL OF EDUCATION</td>
-                            <td></td>
+                            <td>SSCE</td>
                         </tr>
                         <tr>
                             <td>LATEST JOB</td>
-                            <td></td>
+                            <td>Nil</td>
                         </tr>
                     </tbody>
                 </table>
